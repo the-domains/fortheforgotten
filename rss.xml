@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[fortheforgotten]]></title>
         <description><![CDATA[fortheforgotten]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/fortheforgotten/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Mar 2016 22:54:59 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 14 Mar 2016 22:58:22 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/fortheforgotten/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>For the Forgotten-</p>]]></description>
-            <link>undefinedfor-the-forgotten-/index.html</link>
+            <link>https://thegrid.ai/fortheforgotten/for-the-forgotten-/index.html</link>
             <guid isPermaLink="false">21ff30e9-a78a-422f-9491-ae57082ceaf0</guid>
-            <pubDate>Mon, 14 Mar 2016 22:54:58 GMT</pubDate>
+            <pubDate>Mon, 14 Mar 2016 22:58:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
